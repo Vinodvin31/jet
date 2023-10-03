@@ -1,0 +1,2 @@
+hello world , this is an another method of sample data enterig the data
+cat vi
